@@ -1,5 +1,9 @@
 ![ChatterBot: Machine learning in Python](https://i.imgur.com/b3SCmGT.png)
 
+- Lập trình với Python sử dụng thư viện mã nguồn mở
+- Sử dụng SQLite3 để huấn luyện mô hình
+- Trả lời dựa trên cấu trúc dữ liệu
+
 # ChatterBot
 
 ChatterBot is a machine-learning based conversational dialog engine build in
